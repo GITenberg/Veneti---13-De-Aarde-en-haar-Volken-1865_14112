@@ -1,0 +1,29 @@
+_repo: Veneti---13-De-Aarde-en-haar-Volken-1865_14112
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2004-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14112'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Venice (Italy) -- Description and travel'
+- !lcc 'DG'
+title: "Venetië\r\nDe Aarde en haar Volken, 1865"
+url: http://www.gutenberg.org/ebooks/14112
